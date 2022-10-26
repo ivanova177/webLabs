@@ -1,0 +1,33 @@
+form{
+    background-color: #D0B8A8;
+}
+body.index{
+    background-color: #DFD3C3;
+}
+h1.index{
+    font-size:30px;
+    text-align: center;
+}
+body.contact{
+    background-color: #DFD3C3;
+}
+body.inform{
+    background: url(./fone.jpg);
+}
+.title{
+    font-size:30px;
+    text-align: center;
+    color: #5e0c7e;
+}
+h3.inform{
+    font-size:30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: #6f3e84;
+}
+.main{
+    font-size:20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: #7a6583;
+}
