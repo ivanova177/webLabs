@@ -1,0 +1,74 @@
+.blok1{
+    position: absolute;
+    top: 30px;
+    left: 100px;
+    right: 100px;
+    height: 300px;
+    background-color: #FFB9B9;
+}
+h1{
+    text-align: center;
+}
+
+.calculateLove{
+    margin: 0 auto;
+    margin-top: 80px;
+    display: block;
+    width: 250px;
+    height: 60px;
+    background-color: #f69797;
+}
+
+.blok2{
+    position: absolute;
+    top: 500px;
+    left: 100px;
+    right: 100px;
+    height: 300px;
+    background-color: #cfffb9;
+}
+
+.calculateBMI{
+    margin: 0 auto;
+    margin-top: 80px;
+    display: block;
+    width: 250px;
+    height: 60px;
+    background-color: #b0fc8c;
+}
+
+.blok3{
+    position: absolute;
+    top: 1000px;
+    left: 100px;
+    right: 100px;
+    height: 300px;
+    background-color: #b9dcff;
+}
+
+.calculateYear{
+    margin: 0 auto;
+    margin-top: 80px;
+    display: block;
+    width: 250px;
+    height: 60px;
+    background-color: #7ebdfc;
+}
+
+.blok4{
+    position: absolute;
+    top: 1500px;
+    left: 100px;
+    right: 100px;
+    height: 300px;
+    background-color: #f0ffb9;
+}
+
+.calculateDinner{
+    margin: 0 auto;
+    margin-top: 80px;
+    display: block;
+    width: 250px;
+    height: 60px;
+    background-color: #e4fd87;
+}
